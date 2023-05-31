@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Assessment/static/css/main.e97b4998.css",
-    "main.js": "/Assessment/static/js/main.ebb7fb1c.js",
-    "static/media/homeimg.png": "/Assessment/static/media/homeimg.d7dbd820af3c7274ef29.png",
-    "static/media/img1.png": "/Assessment/static/media/img1.ea93c1c9eccdc7efa90a.png",
-    "static/media/logo.png": "/Assessment/static/media/logo.4914f4d3e22fda3ebbb0.png",
-    "index.html": "/Assessment/index.html",
-    "main.e97b4998.css.map": "/Assessment/static/css/main.e97b4998.css.map",
-    "main.ebb7fb1c.js.map": "/Assessment/static/js/main.ebb7fb1c.js.map"
+    "main.css": "/Manavbehal.github.io/static/css/main.e97b4998.css",
+    "main.js": "/Manavbehal.github.io/static/js/main.53c2cf3a.js",
+    "static/media/homeimg.png": "/Manavbehal.github.io/static/media/homeimg.d7dbd820af3c7274ef29.png",
+    "static/media/img1.png": "/Manavbehal.github.io/static/media/img1.ea93c1c9eccdc7efa90a.png",
+    "static/media/logo.png": "/Manavbehal.github.io/static/media/logo.4914f4d3e22fda3ebbb0.png",
+    "index.html": "/Manavbehal.github.io/index.html",
+    "main.e97b4998.css.map": "/Manavbehal.github.io/static/css/main.e97b4998.css.map",
+    "main.53c2cf3a.js.map": "/Manavbehal.github.io/static/js/main.53c2cf3a.js.map"
   },
   "entrypoints": [
     "static/css/main.e97b4998.css",
-    "static/js/main.ebb7fb1c.js"
+    "static/js/main.53c2cf3a.js"
   ]
 }
